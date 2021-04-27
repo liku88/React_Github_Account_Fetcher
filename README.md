@@ -1,5 +1,4 @@
  an API used in this project for fetching github account :- https://api.github.com/users/  
- Link of this project :- https://react-account-fetcher-2de3e.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
